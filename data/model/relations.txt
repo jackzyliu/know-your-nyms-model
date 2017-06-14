@@ -1,0 +1,5 @@
+synonyms
+meronyms
+hyponyms
+antonyms
+random

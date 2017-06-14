@@ -1,0 +1,33 @@
+Total Time Used: 0:00:00
+Total Time Used: 0:00:00.000001
+Total Time Used: 0:00:23.817559
+Total Time Used: 0:00:21.126861
+[cnn] random seed: 3016748844
+[cnn] allocating memory: 8192MB
+[cnn] memory allocation done.
+Traceback (most recent call last):
+  File "/home1/z/zheyuan/meronym/know-your-nyms/lexnet/train_integrated.py", line 204, in <module>
+    main()
+  File "/home1/z/zheyuan/meronym/know-your-nyms/lexnet/train_integrated.py", line 33, in main
+    with codecs.open(dataset_prefix + '/relations.txt', 'r', 'utf-8') as f_in:
+  File "/usr/lib64/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/home1/z/zheyuan/meronym/know-your-nyms/data/model/relations.txt'
+Total Time Used: 0:00:21.300806
+Model Training...
+[cnn] random seed: 3016748844
+[cnn] allocating memory: 8192MB
+[cnn] memory allocation done.
+Traceback (most recent call last):
+  File "/home1/z/zheyuan/meronym/know-your-nyms/lexnet/train_integrated.py", line 204, in <module>
+    main()
+  File "/home1/z/zheyuan/meronym/know-your-nyms/lexnet/train_integrated.py", line 33, in main
+    with codecs.open(dataset_prefix + '/relations.txt', 'r', 'utf-8') as f_in:
+  File "/usr/lib64/python2.7/codecs.py", line 896, in open
+    file = __builtin__.open(filename, mode, buffering)
+IOError: [Errno 2] No such file or directory: '/home1/z/zheyuan/meronym/know-your-nyms/data/model/relations.txt'
+Total Time Used: 0:00:21.280257
+Model Training...
+[cnn] random seed: 3016748844
+[cnn] allocating memory: 8192MB
+[cnn] memory allocation done.

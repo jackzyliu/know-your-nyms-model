@@ -1,0 +1,29 @@
+import os
+import pickle
+import random
+from lstm_common import *
+
+
+from evaluation_common import *
+from paths_lstm_classifier import load_model
+
+import 
+
+# TODO
+# access to database to dump the latest dataset
+# dataset is stored in data_snapshots/data_
+def 
+
+# filter the dataset to remove words that are not contained in GLOVE
+
+
+# prints out summarization the dataset 
+# input: dataset file
+
+
+# create a relations.txt file from a dataset file
+# input: dataset file
+
+
+if __name__ == '__main__':
+    pass
