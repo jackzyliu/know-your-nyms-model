@@ -29,4 +29,7 @@ DEP_DIM = 5
 DIR_DIM = 1
 LOSS_EPSILON = 0.01
 
+# database info
+
+
 
