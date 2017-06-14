@@ -1,0 +1,6 @@
+# Config File #
+CONFIG.py
+
+# Python Compilation Files #
+*.pyc
+
